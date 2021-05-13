@@ -1,0 +1,11 @@
+p.label:hover{
+	color:#ccffff;
+	cursor: pointer;}
+h1:hover {
+  color: purple;
+  cursor: pointer;
+font-size: 50px}
+label:hover{
+	color:red;
+	cursor: pointer;
+	font-family:"Segoe UI";}
